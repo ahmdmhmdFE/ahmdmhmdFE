@@ -43,7 +43,7 @@ Ahmed Mohamed</a></h1>
 	
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 <a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/drive/folders/1utcAhkVEeJDVxp2giuOI79UaYKbBIxfP">
-					<img src="https://cdn.vectorstock.com/i/1000x1000/12/07/resume-icon-vector-22391207.webp" >
+					<img src="https://cdn.vectorstock.com/i/40x40/12/07/resume-icon-vector-22391207.webp" >
 	 </a>
 	 <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/profile.php?id=100012882404597">
 			<img style="width: 35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
