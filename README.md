@@ -11,8 +11,8 @@ Ahmed Mohamed</a></h1>
 💡 &nbsp;Front-end (REACT.JS) developer from Egypt.\
 🎓 &nbsp;I studied at the Faculty of Computers and Information, Department of Information System, Kafr El-Sheikh University.\
 🌱 &nbsp;I'm on track for learning more about Web Development.\
-✉️ &nbsp;You can shoot me an email at ahmedcule79@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://a7md-cule.netlify.app/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at ahmedmouhamedelngary@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Portfolio](https://ahmed-mhmd.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 <br/>
 
@@ -48,7 +48,7 @@ Ahmed Mohamed</a></h1>
 	 <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/profile.php?id=100012882404597">
 			<img style="width: 35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
 	 </a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ahmed-mohamed-753884216/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ahmed-mohamed-front-end/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
 	 </a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/ahmdmhmdFE">
