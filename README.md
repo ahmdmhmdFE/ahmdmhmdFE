@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://ahmed-mohmed.netlify.app/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://ahmed-mohamed-elngary.netlify.app/" target="blank">
 Ahmed Mohamed</a></h1>
 <h3 align="center">Front-end developer with a passion for web development.</h3>
 
@@ -11,8 +11,8 @@ Ahmed Mohamed</a></h1>
 💡 &nbsp;Front-end (REACT.JS) developer from Egypt.\
 🎓 &nbsp;I studied at the Faculty of Computers and Information, Department of Information System, KFS University.\
 🌱 &nbsp;I'm on track for learning more about Web Development.\
-✉️ &nbsp;You can shoot me an email at ahmedmouhamedelngary@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://ahmed-mohmed.netlify.app/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at ahmedmohamedelngary@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Portfolio](https://ahmed-mohamed-elngary.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 <br/>
 
